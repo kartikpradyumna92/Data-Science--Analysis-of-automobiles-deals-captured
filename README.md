@@ -6,13 +6,8 @@
 Description:
 </h3>
 <h4>
-     Classes marked as 1 depict the deals that are captured and observations with class marked as 0 depict that the deals are not captured. The dataset is an imbalanced with majority of observations belonging to uncaptured deals (Class = 0). Also it contained few missing values and outliers which were dealth with during pre-processing stage.<br>
-     
-     </h4><h3>     &emsp; - Automobile.py <br> </h3>
-<h4>    Python script solving the problem.</h4>
-<h3>&emsp; -  Dataset.csv<br> </h3>
-<h4>    Dataset used for this project in the format of CSV. </h4>
-<br>
+     Classes marked as 1 depict the deals that are captured and observations with class marked as 0 depict that the deals are not captured. The dataset is an imbalanced with majority of observations belonging to uncaptured deals (Class = 0). Also it contained few missing values and outliers which were dealth with during pre-processing stage.
+     </h4>
 <h3>
 Explanations: <br>
 </h3>
@@ -37,7 +32,10 @@ I used PyCharm IDE with Anaconda 3 as project interpreter. <br>
 <h3>
 Results: </h3><br>
 <h4>
-f1_score: 
+&emsp; - f1_score: 0.905041605482 <br>
+&emsp; - Confusion Matrix: <br>
+
+
 </h4>
 </body>
 </html>
