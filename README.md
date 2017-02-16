@@ -1,14 +1,13 @@
 <html>
 <body>
 <h2>Data Science project: Analyzing Automobile dealership data. </h2>
-<h4>     This project aims in predicting the probability of capturing certain deals based on customer information and vehicle information. <hr><br> </h4>
+<h4>     This project aims in predicting the probability of capturing certain deals based on customer information and vehicle information. <hr> </h4>
 <h3>
 Description:
 </h3>
 <h4>
      Classes marked as 1 depict the deals that are captured and observations with class marked as 0 depict that the deals are not captured. The dataset is an imbalanced with majority of observations belonging to uncaptured deals (Class = 0). Also it contained few missing values and outliers which were dealth with during pre-processing stage.
      </h4>
-     <br>
 <h3>
 Explanations: <br>
 </h3>
@@ -22,7 +21,6 @@ The result displays the stages of data preprocessing as well as implementation o
 Original percentage of deal being captured is around 5.8%. My results come to around 6.3%.
 </h4>
 <hr>
-<br>
 <h3>Programming tools and Packages:<br></h3>
 <h4>
 I used PyCharm IDE with Anaconda 3 as project interpreter. <br>
@@ -31,7 +29,7 @@ I used PyCharm IDE with Anaconda 3 as project interpreter. <br>
 &emsp; -> pandas <br>
 &emsp; -> numpy <br>
 </h4>
-<br>
+
 <h3>
 <hr>
 Results: </h3><br>
