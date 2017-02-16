@@ -32,7 +32,7 @@ I used PyCharm IDE with Anaconda 3 as project interpreter. <br>
 
 <h3>
 <hr>
-Results: </h3><br>
+Results: </h3>
 <h4>
 &emsp; - f1_score: 0.905041605482 <br>
 &emsp; - Confusion Matrix: <br>
