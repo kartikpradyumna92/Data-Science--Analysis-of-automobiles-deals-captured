@@ -1,8 +1,9 @@
 <html>
 <body>
 <h2>Data Science project: Analyzing Automobile dealership data. </h2>
-<h3>     This project aims in predicting the probability of capturing certain deals based on customer information and vehicle information. <br>
-Description: <br>
+<h4>     This project aims in predicting the probability of capturing certain deals based on customer information and vehicle information. <br> </h4>
+<h3>
+Description:
 </h3>
 <h4>
      Classes marked as 1 depict the deals that are captured and observations with class marked as 0 depict that the deals are not captured. The dataset is an imbalanced with majority of observations belonging to uncaptured deals (Class = 0). Also it contained few missing values and outliers which were dealth with during pre-processing stage.<br>
